@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brixton3)](https://git.io/streak-stats)
 
 **brixton3/brixton3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
